@@ -18,8 +18,8 @@ column_names = [desc[0] for desc in cursor.description]
 
 dictionary_data = {}
 
-#i = 0
-#for row in results:
+# i = 1
+# for row in results:
 #    dictionary_data[i] = dict(zip(column_names, row))
 #    i += 1
 
