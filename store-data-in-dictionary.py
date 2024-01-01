@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /home/jaanvi/.pyenv/versions/3.12.0/bin/python3.12
 import mysql.connector
 
 connection_strings = mysql.connector.connect(
